@@ -3,3 +3,4 @@ API: https://api.github.com/users/*/events/public
 
 Test 1: No email
 Test 2: No email
+Test 3: No email
